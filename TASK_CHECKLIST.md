@@ -1,20 +1,20 @@
 DONE:
 
--None
+Backend
 
 
 
 In progress:
 
--Implementation of back end (90%)
+-Implementation of front end
+
+implement connection of backend to frontend
 
 
 
 TODO:
 
-Back end
+Frontend (Vite)
 
-Frontend (react JS)
-
-Database
+Database Connection
 
